@@ -1,5 +1,7 @@
 # corona-analysis
 
+ARIMA forecasting and dashboarding with publicly available corona data. Includes Kubernetes deployment scripts for the trained model, REST API and dashboard.
+
 ## Environment
 Assuming `conda` is available in your shell you can run the following from the root of this repository to create and activate an anaconda environment called `corona-analysis`, and to run the `jupyter notebook` server:
 ```sh
